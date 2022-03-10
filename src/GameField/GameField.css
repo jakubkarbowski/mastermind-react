@@ -1,0 +1,9 @@
+.game-field {
+	width: 50%;
+	margin: auto;
+	padding: 0;
+	background-color: coral;
+}
+hr {
+	margin: 0;
+}
