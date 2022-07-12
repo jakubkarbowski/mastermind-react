@@ -13,6 +13,26 @@
 	background-color: black;
 }
 
+.pin-container {
+	position: relative;
+}
+
+.pin-button {
+	padding: 0;
+	cursor: pointer;
+	background-color: transparent;
+	outline: none;
+	border: none;
+}
+
+.pin-button:hover {
+	opacity: 0.5;
+}
+
+.pin-button:active .pin {
+	background-color: white;
+}
+
 .blue { background-color: var(--blue); }
 .green { background-color: var(--green); }
 .light-blue { background-color: var(--light-blue); }

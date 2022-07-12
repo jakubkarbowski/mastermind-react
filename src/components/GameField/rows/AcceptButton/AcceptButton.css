@@ -1,0 +1,16 @@
+.accept {
+    position: absolute;
+    right: -30px;
+    background-color: aquamarine;
+    outline: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.accept:hover {
+    background-color: cornflowerblue;
+}
+
+.accept:active {
+    background-color: red;
+}

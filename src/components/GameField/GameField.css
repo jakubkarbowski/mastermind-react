@@ -4,6 +4,15 @@
 	padding: 0;
 	background-color: coral;
 }
+
+.error-text {
+	display: flex;
+	justify-content: center;
+	color: red;
+	min-height: 21px;
+}
+
 hr {
 	margin: 0;
 }
+
